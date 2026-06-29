@@ -3,7 +3,6 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://clairelee-codes.github.io/react-netflix-clone",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
